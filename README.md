@@ -20,8 +20,8 @@ Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: JUHI JAHAN T.S
 RegisterNumber: 212225100020
 */
-'''
-
+```
+```
 
 import numpy as np
 import sys
