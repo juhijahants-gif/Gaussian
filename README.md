@@ -8,10 +8,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Start the program. 
+2. Input the number of unknowns (n).
+3. Input the augmented matrix of order n × (n+1).
+4. Input the augmented matrix of order n × (n+1).
 
 ## Program:
 ```
@@ -23,7 +23,7 @@ RegisterNumber: 212225100020
 '''Program to solve a matrix using Gaussian elimination without partial pivoting.
 Developed by: 
 RegisterNumber: 
-'''
+
 import numpy as np
 import sys
 n=int(input())
