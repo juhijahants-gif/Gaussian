@@ -21,10 +21,7 @@ Developed by: JUHI JAHAN T.S
 RegisterNumber: 212225100020
 */
 '''
-```
-Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by: 
-RegisterNumber: 
+
 
 import numpy as np
 import sys
